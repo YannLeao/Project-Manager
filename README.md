@@ -1,5 +1,12 @@
 # Sistema de Gerenciamento de Projetos
 
+## Ferramentas utilizadas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing">
+</div>
+
 ## 📝 Descrição
 
 Este repositório contém a implementação de um sistema de gerenciamento de projetos, desenvolvido como parte da disciplina de Programação 2 da Universidade Federal Ruaral de Pernambuco (UFRPE). 
